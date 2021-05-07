@@ -1,0 +1,7 @@
+Fux;1;F;Major;F3,G3,A3,F3,D4,E3,F3,C4,A3,F3,G3,F3
+Jeppesen;1;D;Minor;D3,A3,G2,F3,E3,D3,F3,E3,D3
+Schenker;1;C;Major;C3,D3,F3,E3,F3,G3,A3,G3,E3,D3,C3
+Fux;1;D;Minor;D3,F3,E3,D3,G3,F3,A3,G3,F3,E3,D3
+Kirnberger(1);1;C;Major;C3,G3,E3,A3,G3,F3,E3,D3,C3
+Kirnberger(2);1;C;Major;C4,B3,C3,A3,C3,F3,A3,G3,F3,E3,D3,C3
+Fux;1;C;Major;C3,E3,F3,G3,E3,A3,G3,E3,F3,E3,D3,C3
